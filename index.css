@@ -110,5 +110,29 @@ section.about {
 }
 
 .texto-sobre {
-  text
+  padding-left: 130px;
+  padding-top: 40px;
+}
+
+.texto-sobre h1 {
+  font-size: 45px;
+  text-transform: capitalize;
+}
+
+.texto-sobre p {
+  padding: 20px 0;
+  color: black;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.texto-sobre button {
+  border: 0;
+  font-weight: bold;
+  background-color: #065143;
+  color: #FFF;
+  border-radius: 18px;
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
 }
